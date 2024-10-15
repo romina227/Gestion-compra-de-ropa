@@ -1,4 +1,5 @@
 Sistema de Compras de Ropa con POO
+
 Descripción:
 Este proyecto es un sistema de compra de ropa implementado en Python utilizando los 4 pilares de la Programación Orientada a Objetos (POO): Encapsulamiento, Herencia, Polimorfismo y Abstracción. El usuario puede seleccionar distintos tipos de ropa, agregarlos al carrito y ver un resumen de su compra.
 
